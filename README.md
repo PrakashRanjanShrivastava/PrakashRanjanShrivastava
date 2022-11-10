@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrakashRanjanShrivastava
+- 👋 Hi, I’m @Prakash Ranjan
 - 👀 I’m interested in  Data Science And Artificial Intelligence
 - 🌱 I’m currently learning Data Science and Machine learning Algorithms
 - 💞️ I’m looking to collaborate on Data science and Machine learning Projects 
