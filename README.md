@@ -9,7 +9,7 @@
 - **Python Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, Keras
 - **Data Visualization**: Power BI, Tableau, Plotly
 - **Database**: MS SQL Server, PostgreSQL, MySQL
-- **Big Data/ETL**: Apache Spark, PySpark, ETL Pipelines
+- **Big Data/ETL**:   PySpark(Basic), ETL Pipelines
 - **Web Frameworks**: Flask (Basic)
 - **Version Control**: Git, GitHub
 
